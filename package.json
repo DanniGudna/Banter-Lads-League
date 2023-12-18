@@ -26,7 +26,7 @@
     "startall": "concurrently \"yarn start\" \"cd api && node server.js\"",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "build": "react-scripts build",
+    "build": "react-scripts build --output-path=./docs",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "server": "node server.js",
