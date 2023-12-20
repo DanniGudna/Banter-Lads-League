@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Banter-Lads-League/static/css/main.e8d26a66.css",
+    "main.js": "/Banter-Lads-League/static/js/main.493397e4.js",
+    "index.html": "/Banter-Lads-League/index.html",
+    "main.e8d26a66.css.map": "/Banter-Lads-League/static/css/main.e8d26a66.css.map",
+    "main.493397e4.js.map": "/Banter-Lads-League/static/js/main.493397e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8d26a66.css",
+    "static/js/main.493397e4.js"
+  ]
+}
